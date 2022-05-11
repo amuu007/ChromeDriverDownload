@@ -9,7 +9,7 @@ This program takes two arguments -
 1)ChromeDriver Download location (Here a zip file will be downloaded from the web)
 2)chromedriver.exe unzip location (This can be the location from where your selenium project is picking the chromedriver.exe, so that it picks the compatible chromedriver.exe every time)
 
-Argumnets example:
+Arguments example:
 C:\Users\admin\Downloads\ChromeDriverDownload C:\jenkins\workspace\SeleniumProject\Chromedriver
 
 This script creates folders if not available and overwrites the existing folders/files to write new ones.
