@@ -1,6 +1,5 @@
 # ChromeDriverDownload
-Author : Amruta Alandkar 
-Email: amrutasa007@gmail.com
+Author : Amruta Alandkar
 This program provides the compatible chromedriver.exe with the installed chrome version.
 Google chrome autoupdates every biweekly or so notoriously and your test script using chromedriver.exe might fail randomly with incompatible version error. 
 Run this script before your selenium scripts in Jenkins/CI/CD pipeline to always get the right chromedriver.exe file.
